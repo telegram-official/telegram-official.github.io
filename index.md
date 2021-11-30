@@ -6,5 +6,5 @@
 真的有人会看到这个吗？
 
 ## feature
-ddos ［这个网站］（https://yayg.net）
+ddos [这个网站] (https://yayg.net)
 
