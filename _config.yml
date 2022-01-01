@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+
+# Site settings
+title: πy Blog                    # 你的博客网站标题
+SEOTitle: πy的博客 # SEO 标题
+description: "探索未知"            # 随便说点，描述一下
+
+# Build settings
+# paginate: 8                     # 一页你准备放几篇文章
